@@ -10,7 +10,6 @@ The boards were fabricated by JLCPCB and designed with KiCAD 8.0.
 Schematic:
 ![image](https://github.com/user-attachments/assets/7c248ab7-a63e-4a86-8041-cd6589f6fc9a)
 Front Copper:
-![image](https://github.com/user-attachments/assets/c4badebf-65c6-46ea-a8ea-2a075708d556)
+![image](https://github.com/user-attachments/assets/428a5fe7-6c97-4378-bde9-ebf1ec365841)
 Back Copper:
-![image](https://github.com/user-attachments/assets/94931081-ce51-40fb-b25b-194cc4e8ed65)
-
+![image](https://github.com/user-attachments/assets/db5be3b8-764b-46d5-a093-60a61d3aa6e5)
